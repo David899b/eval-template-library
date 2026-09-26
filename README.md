@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Templates](https://img.shields.io/badge/Templates-4-orange)
+![Cookiecutter](https://img.shields.io/badge/Cookiecutter-Ready-blue?logo=cookiecutter)
+![Compliance](https://img.shields.io/badge/Compliance-Ley%2025.326%20%7C%20GDPR%20%7C%20EU%20AI%20Act-green)
+
 # eval-template-library
 
 **Cookiecutter Templates for Instant Eval Infra**
